@@ -112,7 +112,7 @@
     "name": "My House",
     "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat7.jpg?raw=true",
     "price": 0,
-    "priceCurrency": "Philippine PESO",
+    "priceCurrency": "km",
     "lat": 16.579032,
     "lng": 120.326203
   }
